@@ -4,7 +4,6 @@
 
 A front end visualizer for WazirX Data Collector.
 
-
 ## Usage
 
 1. Clone project code.
